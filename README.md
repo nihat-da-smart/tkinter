@@ -1,3 +1,3 @@
 # crispy-sniffle
-these are just some python projects i developed. these are not meant to be commercial unless i am the one posting it.
-
+hi, my gmail got deleted on my main github account(nihat-900). thats why these 2 accounts have the same files in their repository
+thos code is not meant to be commercial unless if i am the one who is making it commercial.
